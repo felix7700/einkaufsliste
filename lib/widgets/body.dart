@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:fridge_manager/models/item.dart';
-import 'package:fridge_manager/widgets/item_list.dart';
+import 'package:einkaufsliste/models/item.dart';
+import 'package:einkaufsliste/widgets/item_list.dart';
 import 'add_new_item_input_card.dart';
 
 class Body extends StatefulWidget {

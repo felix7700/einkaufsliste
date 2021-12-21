@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:fridge_manager/constants.dart';
-import 'package:fridge_manager/widgets/body.dart';
+import 'package:einkaufsliste/constants.dart';
+import 'package:einkaufsliste/widgets/body.dart';
 
 void main() => runApp(const MyApp());
 
